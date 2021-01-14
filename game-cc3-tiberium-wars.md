@@ -1,5 +1,5 @@
 ## Selection Commands
-`
+´´´
   Click                         # Select a unit
   SHIFT + click                 # Add a unit to selection
   Click and drag                # Select a group of units
@@ -14,7 +14,7 @@
   N                             # Select next Harvester
   CONTROL + ~                   # Show all Health Bars   
   >                             # Fast forward mode (during replays only)   
-`
+´´´
 
 ## Move and Attack Commands (with units selected)
 
