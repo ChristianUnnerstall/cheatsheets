@@ -1,4 +1,4 @@
-## Selection Commands
+### Selection Commands
 ````
 Click                         # Select a unit
 SHIFT + click                 # Add a unit to selection
@@ -16,7 +16,7 @@ CONTROL + ~                   # Show all Health Bars
 >                             # Fast forward mode (during replays only)   
 ````
 
-## Move and Attack Commands (with units selected)
+### Move and Attack Commands (with units selected)
 ````
 Right-click                     # Move units or attack targets   
 A + right-click                 # Attack move   
@@ -35,7 +35,7 @@ ALT + D                         # Hold Ground stance
 ALT + F                         # Hold Fire stance  
 ````
 
-## Multiplayer Controls
+### Multiplayer Controls
 ````
 CONTROL + V                     # Toggle voice chat   
 V                               # Voice chat   
@@ -43,7 +43,7 @@ BACKSPACE                       # Chat with allies
 ENTER                           # Chat with everyone
 ````
 
-## Production and Sidebar Commands
+### Production and Sidebar Commands
 ````
 O                               # Toggle Objectives menu   
 I                               # Intel Database   
@@ -62,7 +62,7 @@ CONTROL + A/S/D/F               # Unit ability buttons
 CONTROL + F1 – F8               # Support powers  
 ````
 
-## Screen and Camera Controls
+### Screen and Camera Controls
 ````
 ESC                             # Open Pause menu   
 Arrow keys, or mouse to         # Scroll the screen  the edge of the screen
@@ -83,7 +83,7 @@ F9                              # Toggle interface graphics
 F12                             # Capture screenshot
 ````
 
-## Global Conquest Controls
+### Global Conquest Controls
 ````
 SPACEBAR                        # Next phase
 ````
